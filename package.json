@@ -1,0 +1,32 @@
+{
+  "name": "mapapp",
+  "version": "1.0.0",
+  "description": "Map App",
+  "main": "index.js",
+  "dependencies": {
+        "express"    : "~4.7.2",
+        "mongoose"   : "~4.1.0",
+        "morgan"     : "~1.2.2",
+        "body-parser": "~1.5.2",
+        "jsonwebtoken": "^5.0.2",
+        "method-override": "~2.1.2"
+    },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edzmh96/MapApp.git"
+  },
+  "keywords": [
+    "Map",
+    "App"
+  ],
+  "author": "Edward",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edzmh96/MapApp/issues"
+  },
+  "homepage": "https://github.com/edzmh96/MapApp#readme"
+}
